@@ -5,4 +5,5 @@ maze from a data file, create a visual representation of the maze, then generate
 
 ## Links
 See UML Diagram below:
+
 ![](images/Maze-Runner.drawio.png)
